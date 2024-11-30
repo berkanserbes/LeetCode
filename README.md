@@ -8,6 +8,7 @@
 | [0182-duplicate-emails](https://github.com/berkanserbes/LeetCode/tree/master/0182-duplicate-emails) |
 | [0196-delete-duplicate-emails](https://github.com/berkanserbes/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/berkanserbes/LeetCode/tree/master/0197-rising-temperature) |
+| [0577-employee-bonus](https://github.com/berkanserbes/LeetCode/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/berkanserbes/LeetCode/tree/master/0584-find-customer-referee) |
 | [0596-classes-more-than-5-students](https://github.com/berkanserbes/LeetCode/tree/master/0596-classes-more-than-5-students) |
 | [0620-not-boring-movies](https://github.com/berkanserbes/LeetCode/tree/master/0620-not-boring-movies) |
