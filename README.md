@@ -7,6 +7,7 @@
 | [0176-second-highest-salary](https://github.com/berkanserbes/LeetCode/tree/master/0176-second-highest-salary) |
 | [0182-duplicate-emails](https://github.com/berkanserbes/LeetCode/tree/master/0182-duplicate-emails) |
 | [0196-delete-duplicate-emails](https://github.com/berkanserbes/LeetCode/tree/master/0196-delete-duplicate-emails) |
+| [0197-rising-temperature](https://github.com/berkanserbes/LeetCode/tree/master/0197-rising-temperature) |
 | [0596-classes-more-than-5-students](https://github.com/berkanserbes/LeetCode/tree/master/0596-classes-more-than-5-students) |
 | [0620-not-boring-movies](https://github.com/berkanserbes/LeetCode/tree/master/0620-not-boring-movies) |
 | [1179-game-play-analysis-i](https://github.com/berkanserbes/LeetCode/tree/master/1179-game-play-analysis-i) |
