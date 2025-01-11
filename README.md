@@ -18,6 +18,7 @@
 | [0627-swap-salary](https://github.com/berkanserbes/LeetCode/tree/master/0627-swap-salary) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/berkanserbes/LeetCode/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1179-game-play-analysis-i](https://github.com/berkanserbes/LeetCode/tree/master/1179-game-play-analysis-i) |
+| [1301-reformat-department-table](https://github.com/berkanserbes/LeetCode/tree/master/1301-reformat-department-table) |
 ## Linked List
 |  |
 | ------- |
