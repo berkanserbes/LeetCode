@@ -24,6 +24,7 @@
 | [1179-game-play-analysis-i](https://github.com/berkanserbes/LeetCode/tree/master/1179-game-play-analysis-i) |
 | [1258-article-views-i](https://github.com/berkanserbes/LeetCode/tree/master/1258-article-views-i) |
 | [1301-reformat-department-table](https://github.com/berkanserbes/LeetCode/tree/master/1301-reformat-department-table) |
+| [1390-average-selling-price](https://github.com/berkanserbes/LeetCode/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/berkanserbes/LeetCode/tree/master/1415-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/berkanserbes/LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/berkanserbes/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
