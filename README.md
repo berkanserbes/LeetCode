@@ -45,6 +45,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/berkanserbes/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0890-lemonade-change](https://github.com/berkanserbes/LeetCode/tree/master/0890-lemonade-change) |
 ## Two Pointers
 |  |
 | ------- |
@@ -53,4 +54,8 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/berkanserbes/LeetCode/tree/master/0050-powx-n) |
+## Greedy
+|  |
+| ------- |
+| [0890-lemonade-change](https://github.com/berkanserbes/LeetCode/tree/master/0890-lemonade-change) |
 <!---LeetCode Topics End-->
