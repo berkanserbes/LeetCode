@@ -55,8 +55,13 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/berkanserbes/LeetCode/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/berkanserbes/LeetCode/tree/master/0069-sqrtx) |
 ## Greedy
 |  |
 | ------- |
 | [0890-lemonade-change](https://github.com/berkanserbes/LeetCode/tree/master/0890-lemonade-change) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/berkanserbes/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
