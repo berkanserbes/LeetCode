@@ -54,11 +54,13 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/berkanserbes/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0202-happy-number](https://github.com/berkanserbes/LeetCode/tree/master/0202-happy-number) |
 ## Math
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/berkanserbes/LeetCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/berkanserbes/LeetCode/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/berkanserbes/LeetCode/tree/master/0202-happy-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/berkanserbes/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Greedy
 |  |
@@ -76,4 +78,8 @@
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/berkanserbes/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/berkanserbes/LeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
