@@ -50,6 +50,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/berkanserbes/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/berkanserbes/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0890-lemonade-change](https://github.com/berkanserbes/LeetCode/tree/master/0890-lemonade-change) |
 ## Two Pointers
 |  |
@@ -71,6 +72,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/berkanserbes/LeetCode/tree/master/0069-sqrtx) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/berkanserbes/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
