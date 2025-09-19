@@ -50,6 +50,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/berkanserbes/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/berkanserbes/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/berkanserbes/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0890-lemonade-change](https://github.com/berkanserbes/LeetCode/tree/master/0890-lemonade-change) |
 ## Two Pointers
@@ -85,4 +86,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/berkanserbes/LeetCode/tree/master/0202-happy-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/berkanserbes/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
